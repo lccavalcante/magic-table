@@ -4,7 +4,7 @@ Magic Table
 Center element in Vertical and Horizontal
 
 ### HTML
-
+```html
 <div class="mg-table box-template">
   <div class="mg-cell">
     <div class="mg-text">
@@ -12,6 +12,7 @@ Center element in Vertical and Horizontal
     </div>
   </div>
 </div>
+```
 
 ### CSS
 
