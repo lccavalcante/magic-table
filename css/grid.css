@@ -1,0 +1,76 @@
+
+/*
+	Templates
+-----------------------------*/
+
+.box-template {
+	width: 300px;
+	height: 300px;
+	border: solid 1px black;
+	margin: 0 auto;
+	-web-kit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.nav {
+	list-style: none;
+}
+.nav li{
+	display: inline-block;
+	*display: inline;
+	*zoom:1;
+}
+/* 
+-----------------------------------------------
+End Tamplete
+-----------------------------------------------
+
+*/
+
+/*
+	Grid
+-----------------------------*/
+.wrapper {
+	width 	: 940px;
+	margin 	:  0 auto;
+}
+
+.wrapper-full {
+	width: 100%;
+	clear: both;
+}
+
+/*
+	Clear
+-----------------------------*/
+
+.wrapper:before,
+.wrapper:after {
+    content: " ";
+    display: table;
+}
+
+.wrapper:after {
+    clear: both;
+}
+.wrapper {
+    *zoom: 1;
+}
