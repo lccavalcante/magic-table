@@ -5,7 +5,7 @@ Center element in Vertical and Horizontal
 
 ### HTML
 ```html
-<div class="mg-table box-template">
+<div class="mg-table">
   <div class="mg-cell">
     <div class="mg-text">
       <p>Your Text</p>  
