@@ -16,6 +16,7 @@ Center element in Vertical and Horizontal
 
 ### CSS
 
+```css
 .mg-table{
   display:table;
   text-align:center;
@@ -37,3 +38,4 @@ Center element in Vertical and Horizontal
   *top:-50%;
   *left:-50%;
 }
+```
