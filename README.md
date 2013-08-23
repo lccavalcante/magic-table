@@ -39,3 +39,5 @@ Center element in Vertical and Horizontal
   *left:-50%;
 }
 ```
+
+Run in old Browser, example IE 7 +
