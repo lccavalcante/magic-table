@@ -40,4 +40,6 @@ Center element in Vertical and Horizontal
 }
 ```
 
+[Demo](http://gmoura.com.br/magic-table/)
+
 Run in old Browser, example IE 7 +
